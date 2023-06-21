@@ -1,0 +1,9 @@
+<?
+$MESS ['ESET_CONNECT_MODULE_NAME'] = "CONNECT";
+$MESS ['ESET_CONNECT_MODULE_DESCC'] = "Модуль для реализации OpenID ЕSET CONNECT";
+$MESS ['ESET_CONNECT_PARTNER_NAME'] = "CONNECT";
+$MESS ['ESET_CONNECT_PARTNER_URI'] = "http://www.msu.ru/";
+$MESS ['ESET_CONNECT_UN_INSTALL'] = "Деинсталляция модуля CONNECT";
+$MESS ['ESET_CONNECT_INSTALL'] = "Установка модуля CONNECT";
+
+?>
